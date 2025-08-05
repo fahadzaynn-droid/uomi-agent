@@ -1,6 +1,8 @@
 {
   "name": "SimpleUomiAgent",
-  "version": "1.0.0",
+  "version": "1.0.0", HEAD
   "author": "fahadzaynn-droid",
   "description": "A simple chatbot agent complying with UOMI AI platform requirements."
+  "author": "YourName",
+  "description": "A simple agent for UOMI AI platform."8e96cc8e5fc7b13c01d406a41051b314f361e6c3
 }
